@@ -1,0 +1,6 @@
+2026 Türkiye pazarı için geniş başlangıç marka/model kataloğu. Pazar sürekli değiştiğinden katalog statiktir; ileride resmi/kurumsal veri kaynağı ile otomatik güncelleme eklenebilir.
+
+
+v4.9 katalog notu
+- Türkiye pazarında 2026 için çevrimiçi listelerde 34 marka / 310 model gibi katalog büyüklükleri görülebilmektedir; ürün sayısı kaynak ve kapsamına göre değişir.
+- Lastik katalogları binek, SUV, hafif ticari ve kamyon/bus kategorilerinde resmi üretici sitelerinde ayrı tutulmaktadır. Bu nedenle uygulamadaki liste geniş bir başlangıç kataloğudur; “dünyadaki tüm ebatlar/modeller” garantisi vermez.
